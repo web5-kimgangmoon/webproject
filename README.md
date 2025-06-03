@@ -27,7 +27,11 @@ next, motion-framer, Embla Carousel, react, tailwind, github, @heroicons/react, 
 
 1. 장염 때문에 쉽니다.
 
-## 6/31~6/02
+## 5/31~6/02
 
 1. 장염 때문에 고생했습니다.
 2. 부모님과 함께 집안 보수공사 도와드렸습니다.
+
+## 6/03
+
+1. 피그마 파일 추가
