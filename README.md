@@ -35,3 +35,7 @@ next, motion-framer, Embla Carousel, react, tailwind, github, @heroicons/react, 
 ## 6/03
 
 1. 피그마 파일 추가
+
+## 6/04
+
+1. 게으름 부렸습니다.
