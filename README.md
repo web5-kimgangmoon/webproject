@@ -39,3 +39,7 @@ next, motion-framer, Embla Carousel, react, tailwind, github, @heroicons/react, 
 ## 6/04
 
 1. 게으름 부렸습니다.
+
+## 6/05
+
+1. 메인프로젝트에서 열외합니다. 떠오르는게 있으면 조금씩 작업하겠습니다.
